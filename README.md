@@ -62,8 +62,25 @@
 
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YunfufuBot&layout=compact&theme=dracula)
 
 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YunfufuBot&theme=dracula)
+
+
+
+
+## 🌟 Open Source Contributions
+- Contributed to [Project Name](https://github.com/org/project) - Added feature X.
+- Fixed bugs in [Another Project](https://github.com/org/another-project).
+
+
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute Cat GIF" width="300" />
+</p>
 
 
 
