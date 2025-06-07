@@ -61,7 +61,11 @@
 ![Yunfufu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YunfufuBot&show_icons=true&theme=dracula)
 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YunfufuBot&theme=dracula)
 
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YunfufuBot&layout=compact&theme=dracula)
 
 
 
