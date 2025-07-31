@@ -1,6 +1,9 @@
 ##               HELLO ！ Welcome to YunfufuBot's home
 
 
+## Hi there 👋
+
+
 
 
 <img align="right" src="https://count.getloli.com/get/@:YunfufuBot?theme=rule34">
@@ -10,9 +13,6 @@
 
 
 
-
-
-## Hi there 👋
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!)
