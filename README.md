@@ -6,7 +6,7 @@
 <img align="right" src="https://count.getloli.com/get/@:YunfufuBot?theme=rule34">
 
 
-##     HELLO ！ Welcome to YunfufuBot's home
+
 
 
 
